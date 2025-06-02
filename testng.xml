@@ -1,0 +1,8 @@
+<suite name="HomeSuite">
+	<test name="HomeTest">
+		<classes>
+			<class name="tests.HomeTest" />
+			>
+		</classes>
+	</test>
+</suite>
